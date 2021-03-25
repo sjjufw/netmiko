@@ -56,5 +56,5 @@ setup(
         'enum34; python_version == "2.7"',
         'ipaddress; python_version == "2.7"',
     ],
-    extras_require={"test": ["pyyaml==5.1", "pytest>=4.6.3"]},
+    extras_require={"test": ["pyyaml==5.4", "pytest>=4.6.3"]},
 )
